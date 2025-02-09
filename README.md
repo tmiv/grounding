@@ -42,7 +42,7 @@ Help make mental health tools more accessible to everyone! We welcome contributi
 - Feature suggestions
 - Documentation improvements
 
-To contribute, please visit our [GitHub repository](repository-link) and read our [contributing guidelines](CONTRIBUTING.md).
+To contribute, please visit our [GitHub repository](https://github.com/tmiv/grounding) and read our [contributing guidelines](CONTRIBUTING.md).
 
 ## Translations Needed
 We're actively seeking translations for:
@@ -57,7 +57,7 @@ We're actively seeking translations for:
 If you're fluent in any language and would like to help, please submit a pull request or contact us.
 
 ## License
-[contributing guidelines](CONTRIBUTING.md).
+[License](LICENSE) 
 
 ## Image Credits
 All images in this project were generated using DALL·E by OpenAI.
