@@ -104,7 +104,7 @@
       swipeMult = parseInt(i18next.t('updownswipe'))  
     } else {
       swipeDistance = touchEndX - touchStartX;
-      swipeMult = parseInt(i18next.t('leftRightswipe'))  
+      swipeMult = parseInt(i18next.t('leftrightswipe'))  
     }
 
     if (Math.abs(swipeDistance) > 50) {
