@@ -127,7 +127,7 @@
 >
   <SenseElement {...senses[activeSense]} navigate={navigate}/>
   {#if installable}
-    <button on:click={installPWA}>Install App</button>
+    <button on:click={installPWA}>{i18next.t('installapp')}</button>
   {/if}
 </main>
 
