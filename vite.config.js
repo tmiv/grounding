@@ -21,6 +21,11 @@ export default defineConfig({
         start_url: '/grounding/',
         icons: [
           {
+            src: '/grounding/favicon.ico',
+            sizes: '16x16 32x32 64x64',
+            type: 'image/x-icon'
+          },
+          {
             src: '/grounding/grounding-192x192.png',
             sizes: '192x192',
             type: 'image/png'
