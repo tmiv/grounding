@@ -18,7 +18,7 @@ export default defineConfig({
         short_name: 'Grounding',
         description: '54321 Grounding',
         theme_color: '#ffffff',
-        start_url: '/grounding',
+        start_url: '/grounding/',
         icons: [
           {
             src: '/grounding/grounding-192x192.png',
